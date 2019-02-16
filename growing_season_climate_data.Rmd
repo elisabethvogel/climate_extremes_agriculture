@@ -87,8 +87,7 @@ source("code/data_preparation/03_function_create_dataframe_for_statistical_analy
 data_all = create_dataframe_for_statistical_analysis(parameter_list)
 ```
 
-#### Part 3: Part 3: Statistical analysis using Random Forest, including calculation of R2
-# values from cross-validated time series
+#### Part 3: Statistical analysis using Random Forest, including calculation of R2 values from cross-validated time series
 
 ```{r}
 source("code/statistical_analysis/functions_statistical_analysis.R")
